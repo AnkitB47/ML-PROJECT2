@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/projects_25/ML-project2/mlruns/0/14d8add195044d61835d3a165f97873c/artifacts
+end_time: 1743353223832
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14d8add195044d61835d3a165f97873c
+run_name: industrious-lynx-597
+run_uuid: 14d8add195044d61835d3a165f97873c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743353178677
+status: 3
+tags: []
+user_id: ankitbhardwaj1298
